@@ -1,0 +1,9 @@
+{
+  "name": "name-project",
+  "scripts": {
+    "start": "rmdir /s /q .cache && parcel index.html --open"
+  },
+  "dependencies": {
+    "sass": "^1.70.0"
+  }
+}
